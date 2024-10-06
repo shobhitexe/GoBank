@@ -1,4 +1,4 @@
-module github.io/shobhitexe/gobank
+module github.com/shobhitexe/GoBank
 
 go 1.23.2
 
